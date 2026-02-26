@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Environment variables
+.env
+
+# System files
+.DS_Store
+Thumbs.db

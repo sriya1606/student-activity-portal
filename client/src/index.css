@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom subtle background pattern */
+body {
+  background-color: #F9FAFB;
+  font-family: 'Inter', sans-serif;
+}
